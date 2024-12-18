@@ -1,4 +1,4 @@
 # apnacollegeDemo
 This apna college demo of GitHub
 <br>
-Author - Pratima Palande
+Author - Pratima
